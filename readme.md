@@ -1,4 +1,4 @@
-[![Rust](https://github.com/bungambohlah/codewars-rust-challenges/actions/workflows/rust.yml/badge.svg)](https://github.com/bungambohlah/codewars-rust-challenges/actions/workflows/rust.yml)
+[![Rust Tests](https://github.com/bungambohlah/codewars-rust-challenges/actions/workflows/rust.yml/badge.svg)](https://github.com/bungambohlah/codewars-rust-challenges/actions/workflows/rust.yml)
 
 # Rust Challenge from Codewars
 
