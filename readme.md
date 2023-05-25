@@ -1,3 +1,5 @@
+[![Rust](https://github.com/bungambohlah/codewars-rust-challenges/actions/workflows/rust.yml/badge.svg)](https://github.com/bungambohlah/codewars-rust-challenges/actions/workflows/rust.yml)
+
 # Rust Challenge from Codewars
 
 This is a code challenge **solution** with using Rust programming language from [Codewars](https://codewars.com).
