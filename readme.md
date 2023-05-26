@@ -20,6 +20,7 @@ Or for more information, you can visit my Codewars profile in here: [bungambohla
 1. [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 2. [Unique in Order](https://www.codewars.com/kata/54e6533c92449cc251001667)
 3. [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050)
+4. [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)
 
 ## Commands
 
