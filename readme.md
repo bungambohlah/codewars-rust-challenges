@@ -12,13 +12,14 @@ Or for more information, you can visit my Codewars profile in here: [bungambohla
 
 - [Rust Challenge from Codewars](#rust-challenge-from-codewars)
   - [Table of Contents](#table-of-contents)
-  - [Codewars solution](#codewars-solution)
+  - [List of Codewars Challenges is Done](#list-of-codewars-challenges-is-done)
   - [Commands](#commands)
 
-## Codewars solution
+## List of Codewars Challenges is Done
 
 1. [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 2. [Unique in Order](https://www.codewars.com/kata/54e6533c92449cc251001667)
+3. [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050)
 
 ## Commands
 
