@@ -1,4 +1,5 @@
 pub mod count_bits;
+pub mod does_my_number_look_big;
 pub mod exes_and_ohs;
 pub mod moving_zeros_to_the_end;
 pub mod playing_with_digits;
@@ -15,5 +16,9 @@ fn main() {
     println!(
         "moving zeros to the end! {:?}",
         moving_zeros_to_the_end::run(&[1, 2, 0, 1, 0, 1, 0, 3, 0, 1])
+    );
+    println!(
+        "Does my number look big in this?! {:?}",
+        does_my_number_look_big::run(7)
     );
 }

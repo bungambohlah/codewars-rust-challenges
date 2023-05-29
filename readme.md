@@ -22,6 +22,7 @@ Or for more information, you can visit my Codewars profile in here: [bungambohla
 3. [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050)
 4. [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)
 5. [Moving Zeros to The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
+6. [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 
 ## Commands
 
