@@ -23,6 +23,7 @@ Or for more information, you can visit my Codewars profile in here: [bungambohla
 4. [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)
 5. [Moving Zeros to The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 6. [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
+7. [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716)
 
 ## Commands
 

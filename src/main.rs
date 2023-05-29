@@ -3,6 +3,7 @@ pub mod does_my_number_look_big;
 pub mod exes_and_ohs;
 pub mod moving_zeros_to_the_end;
 pub mod playing_with_digits;
+pub mod rot_13;
 pub mod unique_in_order;
 
 fn main() {
@@ -21,4 +22,5 @@ fn main() {
         "Does my number look big in this?! {:?}",
         does_my_number_look_big::run(7)
     );
+    println!("ROT13 {:?}", rot_13::run("test"));
 }
