@@ -1,6 +1,7 @@
 pub mod count_bits;
 pub mod does_my_number_look_big;
 pub mod exes_and_ohs;
+pub mod isbn10_validation;
 pub mod moving_zeros_to_the_end;
 pub mod playing_with_digits;
 pub mod rot_13;
@@ -23,4 +24,8 @@ fn main() {
         does_my_number_look_big::run(7)
     );
     println!("ROT13 {:?}", rot_13::run("test"));
+    println!(
+        "ISBN-10 Validation {:?}",
+        isbn10_validation::run("1112223339")
+    );
 }

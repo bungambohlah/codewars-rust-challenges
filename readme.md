@@ -24,6 +24,7 @@ Or for more information, you can visit my Codewars profile in here: [bungambohla
 5. [Moving Zeros to The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 6. [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 7. [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716)
+8. [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001)
 
 ## Commands
 
