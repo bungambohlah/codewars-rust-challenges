@@ -1,6 +1,7 @@
 pub mod count_bits;
 pub mod does_my_number_look_big;
 pub mod exes_and_ohs;
+pub mod int32_to_ipv4;
 pub mod isbn10_validation;
 pub mod moving_zeros_to_the_end;
 pub mod playing_with_digits;
@@ -28,4 +29,5 @@ fn main() {
         "ISBN-10 Validation {:?}",
         isbn10_validation::run("1112223339")
     );
+    println!("int32 to IPv4 {:?}", int32_to_ipv4::run(2154959208));
 }

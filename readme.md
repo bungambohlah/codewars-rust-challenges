@@ -25,6 +25,7 @@ Or for more information, you can visit my Codewars profile in here: [bungambohla
 6. [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 7. [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716)
 8. [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001)
+9. [int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e)
 
 ## Commands
 
