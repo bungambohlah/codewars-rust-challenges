@@ -5,6 +5,7 @@ pub mod int32_to_ipv4;
 pub mod isbn10_validation;
 pub mod moving_zeros_to_the_end;
 pub mod playing_with_digits;
+pub mod primes_in_numbers;
 pub mod rot_13;
 pub mod unique_in_order;
 
@@ -30,4 +31,5 @@ fn main() {
         isbn10_validation::run("1112223339")
     );
     println!("int32 to IPv4 {:?}", int32_to_ipv4::run(2154959208));
+    println!("Primes in numbers {:?}", primes_in_numbers::run(7775460));
 }
