@@ -2,6 +2,7 @@ pub mod count_bits;
 pub mod does_my_number_look_big;
 pub mod exes_and_ohs;
 pub mod int32_to_ipv4;
+pub mod integers_recreate_one;
 pub mod isbn10_validation;
 pub mod moving_zeros_to_the_end;
 pub mod playing_with_digits;
@@ -32,4 +33,8 @@ fn main() {
     );
     println!("int32 to IPv4 {:?}", int32_to_ipv4::run(2154959208));
     println!("Primes in numbers {:?}", primes_in_numbers::run(7775460));
+    println!(
+        "Integers: Recreation One {:?}",
+        integers_recreate_one::run(1, 250)
+    );
 }
