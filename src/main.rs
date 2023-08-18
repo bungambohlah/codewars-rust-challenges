@@ -8,6 +8,7 @@ pub mod moving_zeros_to_the_end;
 pub mod playing_with_digits;
 pub mod primes_in_numbers;
 pub mod rot_13;
+pub mod snail_sort;
 pub mod unique_in_order;
 
 fn main() {
@@ -36,5 +37,9 @@ fn main() {
     println!(
         "Integers: Recreation One {:?}",
         integers_recreate_one::run(1, 250)
+    );
+    println!(
+        "Snail Sort {:?}",
+        snail_sort::run(&[vec![1, 2, 3], vec![8, 9, 4], vec![7, 6, 5],])
     );
 }

@@ -27,7 +27,8 @@ Or for more information, you can visit my Codewars profile in here: [bungambohla
 8. [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001)
 9. [int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e)
 10. [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e)
-11. [Integers: Recreation One](https://www.codewars.com/kata/55aa075506463dac6600010d)
+11. [Integers: Rec reation One](https://www.codewars.com/kata/55aa075506463dac6600010d)
+12. [Snail Sort](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
 
 ## Commands
 
