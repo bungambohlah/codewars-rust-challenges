@@ -4,6 +4,7 @@ pub mod exes_and_ohs;
 pub mod int32_to_ipv4;
 pub mod integers_recreate_one;
 pub mod isbn10_validation;
+pub mod large_factorials;
 pub mod moving_zeros_to_the_end;
 pub mod playing_with_digits;
 pub mod primes_in_numbers;
@@ -42,4 +43,5 @@ fn main() {
         "Snail Sort {:?}",
         snail_sort::run(&[vec![1, 2, 3], vec![8, 9, 4], vec![7, 6, 5],])
     );
+    println!("Large Factorials {:?}", large_factorials::run(100));
 }

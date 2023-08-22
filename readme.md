@@ -29,6 +29,7 @@ Or for more information, you can visit my Codewars profile in here: [bungambohla
 10. [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e)
 11. [Integers: Rec reation One](https://www.codewars.com/kata/55aa075506463dac6600010d)
 12. [Snail Sort](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
+13. [Large Factorials](https://www.codewars.com/kata/557f6437bf8dcdd135000010)
 
 ## Commands
 
